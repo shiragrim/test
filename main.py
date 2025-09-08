@@ -11,6 +11,7 @@ def main():
     print("hello")
     print(1234)
     print("hiiiii")
+    print("biski")
 main()
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
